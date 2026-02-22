@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.0",
   "file_name": "KontaPackage.zip",
   "download_url": "https://github.com/giesy85/konta-updates/releases/download/release/KontaPackage.zip",
-  "file_hash": "dca82b7cc6a607da4633d05f408e849e",
-  "file_size": 52791135,
+  "file_hash": "938150ac316296fc284a175e5b14c03f",
+  "file_size": 52795483,
   "changelog": "Cambio a GitHub Releases para descargas estables en Cuba."
 }
